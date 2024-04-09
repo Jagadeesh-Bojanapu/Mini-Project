@@ -1,0 +1,29 @@
+import React from 'react'
+import { useEffect, useState } from 'react'
+import { useParams, Link } from 'react-router-dom';
+export const UserDetails = () => {
+
+    const { id } = useParams();
+
+    const [app, setApp] = useState([]);
+
+    useEffect(() => {
+        const fetchData = async () => {
+            const response = await fetch(`http://localhost:5050/app/${id}`);
+            const data = await response.json()
+            setApp(data)
+        };
+        fetchData()
+    }, [id])
+    return (
+        <>
+            <h1>Fetching data</h1>
+            <ul>
+                {app.id} {app.appname}
+                <Link to={'/'}>
+                    <button type='button'>Back</button>
+                </Link>
+            </ul>
+        </>
+    )
+}

@@ -1,0 +1,109 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "username": "ewoliter0",
+            "email": "mbrood0@vistaprint.com",
+            "password": "xP5aP8bn(",
+            "role": "admin"
+        },
+        {
+            "id": 2,
+            "username": "ppodbury1",
+            "email": "kpesselt1@cnn.com",
+            "password": "vF9h,{v@dS)",
+            "role": "admin"
+        },
+        {
+            "id": 3,
+            "username": "fspinola2",
+            "email": "aimorts2@yolasite.com",
+            "password": "kC4!E%ljCCa",
+            "role": "user"
+        },
+        {
+            "id": 4,
+            "username": "msymondson3",
+            "email": "ccattlow3@bloglines.com",
+            "password": "yX3LPr%\\Z'c",
+            "role": "user"
+        },
+        {
+            "id": 5,
+            "username": "hcatherine4",
+            "email": "dtrye4@aboutads.info",
+            "password": "hT7,2Du%",
+            "role": "admin"
+        },
+        {
+            "id": 6,
+            "username": "ibernaert5",
+            "email": "lkensington5@squarespace.com",
+            "password": "tL0\\9u&n1&&raC",
+            "role": "admin"
+        },
+        {
+            "id": 7,
+            "username": "hbabbage6",
+            "email": "aappleford6@microsoft.com",
+            "password": "bL4eUn8Tl8Na3g|",
+            "role": "admin"
+        },
+        {
+            "id": 8,
+            "username": "hgoult7",
+            "email": "bbeasleigh7@chicagotribune.com",
+            "password": "bA2t?l'klJ97",
+            "role": "user"
+        },
+        {
+            "id": 9,
+            "username": "idudin8",
+            "email": "ajedrys8@nbcnews.com",
+            "password": "wD9~l53`ktp+",
+            "role": "user"
+        },
+        {
+            "id": 10,
+            "username": "cfallanche9",
+            "email": "hwardel9@technorati.com",
+            "password": "kT9B>*(IqC\"",
+            "role": "admin"
+        },
+        {
+            "id": 11,
+            "username": "spiotra",
+            "email": "dbeddarda@msu.edu",
+            "password": "tL5qLP\"6uE%U?",
+            "role": "user"
+        },
+        {
+            "id": 12,
+            "username": "mwallisb",
+            "email": "jcatlingb@spotify.com",
+            "password": "pT1|_!F=",
+            "role": "user"
+        },
+        {
+            "id": 13,
+            "username": "pcrosdillc",
+            "email": "modellc@qq.com",
+            "password": "jX6B$\"&i8xq\"3imb",
+            "role": "user"
+        },
+        {
+            "id": 14,
+            "username": "abhard",
+            "email": "ksherborned@biblegateway.com",
+            "password": "dR16D!,<HmAu18$",
+            "role": "admin"
+        },
+        {
+            "id": 15,
+            "username": "gmacgibbone",
+            "email": "tashforthe@bandcamp.com",
+            "password": "cJ16u*FuKdCsx",
+            "role": "user"
+        }
+    ]
+}
